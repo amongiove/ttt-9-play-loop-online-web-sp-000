@@ -39,7 +39,7 @@ def turn_count(board, index)
   turn_count = 0
   if board(index) != nil
     turn_count += 1
-
+  end
 
 def play(board)
   counter = 0
